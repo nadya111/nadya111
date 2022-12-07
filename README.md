@@ -1,5 +1,5 @@
 [![Header](https://github.com/nadya111/nadya111/blob/main/assets/og_og.jpg)
-## I'm a QA Engineer and Tutor. 
+## I'm a Junoir QA Engineer.
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
