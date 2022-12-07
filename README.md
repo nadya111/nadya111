@@ -1,18 +1,8 @@
 [![Header](https://github.com/nadya111/nadya111/blob/main/assets/og_og.jpg)
 ## I'm a Junoir QA Engineer.
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/spreadsheets/u/1/)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [ТЕСТИРОВАНИЕ САЙТА НА ПРИМЕРЕ SKILLBOX. ОБЗОР КУРСОВ ДЛЯ ТЕСТИРОВЩИКОВ](https://www.youtube.com/watch?v=R6ZPordIelY)
-- [Курс Тестировщик с нуля - как эффективно пройти?](https://www.youtube.com/watch?v=g6hbLHEtdfo)
-- [Youtrack -  обзор функций для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
-- [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
