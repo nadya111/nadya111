@@ -21,7 +21,7 @@
 
 - [Checklists](https://github.com/nadya111/Checklists/blob/main/Checklist%20Aliexpress.pdf)
 - [Test-Suites and Test-Cases](https://github.com/nadya111/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/nadya111/Bug-Reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
