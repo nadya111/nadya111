@@ -23,7 +23,7 @@
 - [Test-Suites and Test-Cases](https://github.com/nadya111/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/nadya111/Bug-Reports)
 - [SQL Queries](https://github.com/nadya111/SQL-)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/speeding-equinox-742705/workspace/new-workspace/collection/23693597-4f84e40e-515c-4dcb-b8eb-4f2e582c81a7?ctx=documentation)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/n_mstpn/)
