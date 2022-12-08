@@ -20,7 +20,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/nadya111/Checklists/blob/main/Checklist%20Aliexpress.pdf)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/nadya111/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
